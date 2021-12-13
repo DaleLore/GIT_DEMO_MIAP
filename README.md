@@ -11,6 +11,7 @@
 
 ## Add Your Name to the List Below
 
+- Chialin Chou
 - Emily Nabasny
 - AJ Lawrence
 - Bleakley McDowell
