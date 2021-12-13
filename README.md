@@ -10,4 +10,7 @@
 <hr>
 
 ## Add Your Name to the List Below
-CK
+
+- Bleakley McDowell
+- Lorena Ramírez-López
+
