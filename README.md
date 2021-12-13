@@ -10,4 +10,8 @@
 <hr>
 
 ## Add Your Name to the List Below
-AJ Lawrence
+
+- AJ Lawrence
+- Bleakley McDowell
+- Lorena Ramírez-López
+
