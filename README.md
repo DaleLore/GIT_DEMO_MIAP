@@ -10,4 +10,10 @@
 <hr>
 
 ## Add Your Name to the List Below
+
 - Emily Nabasny
+- AJ Lawrence
+- Bleakley McDowell
+- Lorena Ramírez-López
+- CK
+
