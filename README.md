@@ -10,4 +10,11 @@
 <hr>
 
 ## Add Your Name to the List Below
-Chialin Chou
+
+- Chialin Chou
+- Emily Nabasny
+- AJ Lawrence
+- Bleakley McDowell
+- Lorena Ramírez-López
+- CK
+
